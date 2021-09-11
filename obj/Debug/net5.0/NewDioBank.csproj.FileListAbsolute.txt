@@ -1,0 +1,16 @@
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\NewDioBank.exe
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\NewDioBank.deps.json
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\NewDioBank.runtimeconfig.json
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\NewDioBank.runtimeconfig.dev.json
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\NewDioBank.dll
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\ref\NewDioBank.dll
+C:\Users\corre\dio\NewDioBank\bin\Debug\net5.0\NewDioBank.pdb
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.csproj.AssemblyReference.cache
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.AssemblyInfoInputs.cache
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.AssemblyInfo.cs
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.csproj.CoreCompileInputs.cache
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.dll
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\ref\NewDioBank.dll
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.pdb
+C:\Users\corre\dio\NewDioBank\obj\Debug\net5.0\NewDioBank.genruntimeconfig.cache
